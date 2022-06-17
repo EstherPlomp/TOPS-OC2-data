@@ -1,4 +1,4 @@
-# TOPS Core Curriculum Module 1: Ethos of Open Science
+# TOPS Core Curriculum Module 2: Open Data
 
 The module's introductory content goes here. Replace this template text by a short description of the context and content of the module, and welcome learners to the experience. Add any guidance you think learners need to navigate the content. 
 
