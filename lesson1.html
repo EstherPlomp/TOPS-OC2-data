@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Lesson 1: using Markdown &#8212; TOPS Core Curriculum</title>
+    <title>Lesson 1: What is Open Data? &#8212; TOPS Core Curriculum</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -121,7 +121,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   Lesson 1: using Markdown
+   Lesson 1:  What is Open Data?
   </a>
  </li>
  <li class="toctree-l1">
@@ -339,13 +339,64 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#what-is-data">
+     1.1 What is Data?
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#primary-raw-data">
+       Primary (raw) data
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#processed-data">
+       Processed data
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#metadata">
+       Metadata
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#what-is-open-data">
+     1.2 What is Open Data?
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#availability-and-accessibility">
+       Availability and accessibility
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#reusability">
+       Reusability
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#inclusivity">
+       Inclusivity
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusion">
+   Conclusion
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#citations">
-   Citations
+  <a class="reference internal nav-link" href="#assessment">
+   Assessment
   </a>
  </li>
 </ul>
@@ -357,7 +408,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Lesson 1: using Markdown</h1>
+                <h1>Lesson 1:  What is Open Data?</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -368,13 +419,64 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#what-is-data">
+     1.1 What is Data?
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#primary-raw-data">
+       Primary (raw) data
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#processed-data">
+       Processed data
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#metadata">
+       Metadata
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#what-is-open-data">
+     1.2 What is Open Data?
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#availability-and-accessibility">
+       Availability and accessibility
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#reusability">
+       Reusability
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#inclusivity">
+       Inclusivity
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#conclusion">
+   Conclusion
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#citations">
-   Citations
+  <a class="reference internal nav-link" href="#assessment">
+   Assessment
   </a>
  </li>
 </ul>
@@ -387,41 +489,40 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="lesson-1-using-markdown">
-<h1>Lesson 1: using Markdown<a class="headerlink" href="#lesson-1-using-markdown" title="Permalink to this headline">#</a></h1>
-<p>In the module template, we use the <code class="docutils literal notranslate"><span class="pre">lesson1.md</span></code> file as a sample lesson, and introduce you to the flavor of Markdown that you will use to write the content, called <strong>MyST Markdown</strong>.</p>
-<p>Whether you write module content content in Jupyter Notebooks (<code class="docutils literal notranslate"><span class="pre">.ipynb</span></code>) or
-in regular markdown files (<code class="docutils literal notranslate"><span class="pre">.md</span></code>), you’ll write in the same flavor of Markdown.
-This file shows some example syntax.</p>
-<section id="what-is-myst">
-<h2>What is MyST?<a class="headerlink" href="#what-is-myst" title="Permalink to this headline">#</a></h2>
-<p>MyST stands for “Markedly Structured Text”. It
-is a variation on so-called “CommonMark” markdown,
-with some syntax extensions to allow you to write <strong>roles</strong> and <strong>directives</strong>.
-These offer customization and styling for the final content.
-For example, you can use a directive to get a nicely formatted <em>Note</em>  box in the final document like this:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{note}
-Here is a note
-```
-</pre></div>
-</div>
-<p>Other directives can produce styled boxes for: <em>Warning</em>, <em>Caution</em>, <em>See also</em>, and <em>Tip</em>.</p>
-<p>Roles are like in-line commands, for example to introduce citations (see below) or internal links to other parts of the lessons. If you know LaTeX, you can think of directives as environments and roles as macros.</p>
-<div class="admonition seealso">
-<p class="admonition-title">See also</p>
-<p>Learn more about MyST by exploring the JupyterBook documentation: <a class="reference external" href="https://jupyterbook.org/content/myst.html">MyST Markdown Overview</a>.</p>
-</div>
+  <section class="tex2jax_ignore mathjax_ignore" id="lesson-1-what-is-open-data">
+<h1>Lesson 1:  What is Open Data?<a class="headerlink" href="#lesson-1-what-is-open-data" title="Permalink to this headline">#</a></h1>
+<section id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
+<section id="what-is-data">
+<h3>1.1 What is Data?<a class="headerlink" href="#what-is-data" title="Permalink to this headline">#</a></h3>
+<section id="primary-raw-data">
+<h4>Primary (raw) data<a class="headerlink" href="#primary-raw-data" title="Permalink to this headline">#</a></h4>
 </section>
-<section id="citations">
-<h2>Citations<a class="headerlink" href="#citations" title="Permalink to this headline">#</a></h2>
-<p>You can cite references from a <code class="docutils literal notranslate"><span class="pre">bibtex</span></code> file using <code class="docutils literal notranslate"><span class="pre">{cite}</span></code> roles. Several in-line citation styles are possible.
-See the variations in the JupyterBook documentation: <a class="reference external" href="https://jupyterbook.org/en/stable/content/citations.html#change-the-in-line-citation-style">Change the in-line citation style</a>.</p>
-<p>To insert a bibliography into your page, you will use the <code class="docutils literal notranslate"><span class="pre">{bibliography}</span></code> directive. For example, if the references for your module are stored in <code class="docutils literal notranslate"><span class="pre">references.bib</span></code>, you indicate this file name in the <code class="docutils literal notranslate"><span class="pre">_config.yml</span></code> and
-then insert the bibliography with:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{bibliography}
-```
-</pre></div>
-</div>
+<section id="processed-data">
+<h4>Processed data<a class="headerlink" href="#processed-data" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="metadata">
+<h4>Metadata<a class="headerlink" href="#metadata" title="Permalink to this headline">#</a></h4>
+</section>
+</section>
+<section id="what-is-open-data">
+<h3>1.2 What is Open Data?<a class="headerlink" href="#what-is-open-data" title="Permalink to this headline">#</a></h3>
+<section id="availability-and-accessibility">
+<h4>Availability and accessibility<a class="headerlink" href="#availability-and-accessibility" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="reusability">
+<h4>Reusability<a class="headerlink" href="#reusability" title="Permalink to this headline">#</a></h4>
+</section>
+<section id="inclusivity">
+<h4>Inclusivity<a class="headerlink" href="#inclusivity" title="Permalink to this headline">#</a></h4>
+</section>
+</section>
+</section>
+<section id="conclusion">
+<h2>Conclusion<a class="headerlink" href="#conclusion" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="assessment">
+<h2>Assessment<a class="headerlink" href="#assessment" title="Permalink to this headline">#</a></h2>
 </section>
 </section>
 
