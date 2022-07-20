@@ -1,15 +1,16 @@
 # Learning Objectives
 
-Each module needs to have learning objectives, a list of 3 to 5 expected new skills or behaviors for the learners who complete the module.
+## Module Learning objectives:
+2A. Describe key characteristics of open data
 
-For example, the module on Ethos of Open Science can have as one learning objective:
+2B. Categorize types of open data
 
-- Communicate and interpret the benefits and barriers of Open Science both individually and for community
+2C. Communicate the benefits of Open data and its effects on science
 
-Here, the verbs "communicate" and "interpret" represent new capacities that learners gain from experiencing the module through its content and activities.
+2D. Communicate best practices for responsibly sharing data
 
-Some people like to use the so-called [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria) to guide drafting of learning objectives.
-It is a mnemonic for *specific*, *measurable*, *achievable*, *relevant*, and *time-bound*.
-Most important is to focus on the learners (not the content): what will they be able to do differently after completing the module?
+2E. Explain the relationship between FAIR, CARE and Open Data
 
-Use this Markdown file replacing this guidance with your learning objectives.
+2F. Describe key features for effective data management planning
+
+2G. Describe best practices for sharing open data
