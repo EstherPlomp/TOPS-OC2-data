@@ -27,7 +27,7 @@ These ideas were put together in the [DCC Curation Lifecycle model](http://www.i
 
 ![The DataOne Data life cycle](https://old.dataone.org/sites/all/images/DLC2015_sm.png "Figure 5.2 A summary of the data life cycle")
 
-Figure 5.2: A summary of the data life cycle
+Figure 5.2: A summary of the data life cycle (reproduced from https://old.dataone.org/data-life-cycle)
 
 Here the focus is very much moved away from the idea of research -> publication and instead is on the data itself as a first class research output.
 Let’s look at these individual steps
