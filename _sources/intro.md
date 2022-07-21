@@ -1,14 +1,16 @@
 # TOPS Core Curriculum Module 2: Open Data
 
-The module's introductory content goes here. Replace this template text by a short description of the context and content of the module, and welcome learners to the experience. Add any guidance you think learners need to navigate the content. 
+Over the past two decades the open science movement has been advocating for publicly accessible science, which is more open and participatory. This is in order to improve the quality, efficiency, responsiveness of research to advance and catalyze the creative process as well as foster the public trust in research results. 
 
-The content of the module is built from a collection of Markdown files (`.md`). You can also use Jupyter notebooks (`.ipynb`) if you wish.
-The structure of the module is set by listing the files in order in the `_toc.yml` file, under the `chapters` heading. You can follow the example provided by this template and edit the file list as the content develops.
+Open Science removes the barriers to the diffusion of knowledge where researchers share knowledge and data as early as possible in the research process. Needless to say, the breadth of what is covered by Open Science now encompasses far more than what can be expressed in traditional scholarly publications i.e. a typical research paper. 
 
+This is due to the fact that the adoption of digital technologies has fundamentally transformed the way we do research and science across all stages of the scientific process, from hypothesizing, planning, experimentation to creating research output as well as communicating and evaluating research.  
+The advances and integration of digital technologies as seen in every aspect of scientific research has led to the production of large amounts of data, which has effectively placed Open Data as an essential pillar of Open Science. In many ways, Open Data is a natural expansion of Open Science beyond scholarly publications to include digital research outputs. And it has since become an integral part of the open science movement and one of the most important elements for Open Science to succeed as it allows researchers to see, use and verify published results thereby enhancing transparency and reusability. 
 
-The `intro.md` file (this file) is the "root" of the module content, with the rest of the content written as separate files, e.g., one file per lesson (or section). Use a top-level heading (starting with one `#`) at the start of each file. Add subsections using `##` and `###` in the lesson files, but not in this `intro.md` file.
+Open Science conversations are thus incomplete without addressing how data is handled and treated in research settings.
 
-A table of contents will be added automatically using the directive:
+There are six individual lessons in this chapter. Lesson 1 describes what Data and Open Data is. Lesson 2 explains why Open Data is an enabler of Open Science and why making data open brings huge benefits. Lesson 3 demonstrates that while the default for data should be open, this should not be done in all circumstances and data should be made open in a responsible fashion. Lesson 4 discusses the CARE and FAIR principles; the former being principles associated with indigenous data governance and the latter a set of principles for sharing data effectively. Lesson 5 describes how data should be managed so that making the data open can be done as effectively as possible. Finally lesson 6 outlines practices for Open Data including repositories, licenses and citing data. 
+
 
 ````
 ```{tableofcontents}
