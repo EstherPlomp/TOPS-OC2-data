@@ -24,3 +24,17 @@
 17. https://data.worldbank.org/indicator/SI.POV.DDAY?locations=1W&start=1981&end=2015&view=chart
 
 ## Lesson 2 References:
+1. https://eventhorizontelescope.org/
+2. https://oceanrep.geomar.de/id/eprint/12875/1/CMIP.pdf 
+3. https://doi.org/10.1002/epi4.12359
+4.  https://www.openstreetmap.org/#map=5/54.910/-3.432
+5.  https://www.nature.com/articles/d41586-021-00305-7#:~:text=Other%20researchers%20say%20that%20restrictions,while%20protecting%20data%20providers
+6.  https://www.nature.com/articles/d41586-020-01246-3
+7.  https://www.oed.com/view/Entry/33513?redirectedFrom=citizen+scientist#eid316597459
+8. https://en.unesco.org/science-sustainable-future/open-science/recommendation
+9. https://ecsa.citizen-science.net/
+10. https://www.idrc.ca/en/book/contextualizing-openness-situating-open-science
+11.  https://zenodo.org/record/3946773#.YsFyqHbMJPb
+12. https://www.nature.com/articles/d41586-021-01194-6
+
+## Lesson 3 References:
