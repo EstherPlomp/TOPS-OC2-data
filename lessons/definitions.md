@@ -1,1 +1,14 @@
 # Definitions
+**Model output:** Data generated from a computational or theoretical model to describe a process. The model may or may not require prior data.
+
+**Metadata:** Literally, "data about data"; data that defines and describes the characteristics of other data, used to improve both business and technical understanding of data and data-related processes. Business metadata includes the names and business definitions of subject areas, entities and attributes, attribute data types and other attribute properties, range descriptions, valid domain values and their definitions. Technical metadata includes physical database table and column names, column properties, and the properties of other database objects, including how data is stored. Process metadata is data that defines and describes the characteristics of other system elements (processes, business rules, programs, jobs, tools, etc.). Data stewardship metadata is data about data stewards, stewardship processes and responsibility assignments. https://dictionary.casrai.org/Metadata (note CASRAI is transitioning to a new site)
+
+**Reproducibility:** The researchers provide all the necessary data and the computer codes to run the analysis again, re-creating the results (Claerbout and Karrenbach,  1992 doi:https://doi.org/10.1190/1.1822162)
+
+**Replicability:** A study that arrives at the same scientific findings as another study, collecting new data (possibly with different methods) and completing new analyses.(Claerbout and Karrenbach,  1992 doi:https://doi.org/10.1190/1.1822162)
+
+**Persistent Identifier:** A persistent identifier is a long-lasting reference to a digital object that gives information about that object regardless of what happens to it. Developed to address "link rot," a persistent identifier can be resolved to provide an appropriate representation of an object whether that objects changes its online location or goes offline. SYNONYM. PID https://codata.org/rdm-terminology/persistent-identifier/ 
+
+**DOI:** A name (not a location) for an entity on digital networks. It provides a system for persistent and actionable identification and interoperable exchange of managed information on digital networks. A DOI is a type of Persistent Identifier (PID) issued by the International DOI Foundation. This permanent identifier is associated with a digital object that permits it to be referenced reliably even if its location and metadata undergo change over time. https://codata.org/rdm-terminology/digital-object-identifier/ 
+
+**Repository:** Repositories preserve, manage, and provide access to many types of digital materials in a variety of formats. Materials in online repositories are curated to enable search, discovery, and reuse. There must be sufficient control for the digital material to be authentic, reliable, accessible and usable on a continuing basis. https://codata.org/rdm-terminology/repository/ 
