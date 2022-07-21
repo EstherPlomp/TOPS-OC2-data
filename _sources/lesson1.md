@@ -82,13 +82,54 @@ There are different types/categories of metadata addressing different purposes:
 
 
 ### 1.2 What is Open Data?
+The term “Open Data” is relatively  new with the first appearance in 1995 in an [article in Paris Tech Review](http://www.paristechreview.com/2013/03/29/brief-history-open-data/) describing the need of sharing Earth and environmental data because “our atmosphere, oceans and biosphere form an integrated whole that transcends borders.” [[13](http://www.paristechreview.com/2013/03/29/brief-history-open-data/)]
+
+In this lesson, we are adopting the definition of “Open Data” as defined in the [Open Data Handbook](https://opendatahandbook.org/) from the [Open Knowledge Foundation](https://okfn.org/) [[14](https://opendatahandbook.org/)] [[15](https://okfn.org/)].
+
+> “Open data is data that can be freely used, re-used and redistributed by anyone - subject only, at most, to the requirement to attribute and sharealike.”
+
+Open Data is defined by a set of key attributes, but keep in mind that not all aspects can or will be present at all times as there might be some considerations or restrictions to take into account. 
+This could be partly due to the fact that Open Data does not necessarily mean Open for ALL, but rather Open for the specific individuals and/or communities, more on this in lessons 3 (Responsible Open Data) & 4 (CARE & FAIR Principles) .
+
 
 #### Availability and accessibility
 
+Open data is characterized by being available and accessible, meaning that it is published on a publicly available platform and accessible to download over the internet allowing others to find it and use it. 
+
+Ideally, scientific research outputs including; research data, metadata, manuscripts, open educational resources, software, hardware and source code are published and made available in both human and machine readable. 
+
+Generally, Open Data does not require a payment. Nevertheless, in some cases infrastructure costs might be required which can be covered by societies, institutes, organizations etc. More on this in  lesson 6 (Sharing Open Data). 
+
 #### Reusability 
+For Open Data to be useful, it has to be reusable. Without the capacity to reuse it, we are creating “data tombs” where the data is hosted (lives) but is of no value to others [[16]()]. 
+
+There are essential factors that need to be addressed in order for the data to be in good enough shape for others to use it .For instance, researchers and data reusers are mostly looking for data which is “comprehensive, easy to obtain, easy to manipulate, and believable”. For these criteria to be fulfilled the data needs to:
+
+* Sufficiently described with appropriate metadata, which greatly affects open data reusability. There is no one size fits all for metadata as  its collection is guided by your data. More on metadata generation in lesson 5 (Planning for Open Data) 
+* Has appropriate license, copyright and citation information. See  lesson 6 (Sharing Open Data)
+* Has appropriate access information. Learn more  in lesson 6 (Sharing Open Data)
+* Findable in an accredited or trustworthy resource. Learn more  in lesson 6 (Sharing Open Data)
+* Maintained on a regular basis, addressing feedback from different levels of users
+* Accompanied with history of changes and versioning (see definitions) allowing users to point to the exact state of data when they decided to use it. 
+* For processed data it is also important to include details of all processing steps. For instance in the case for large data, e.g., it is not common practice for raw genomic reads to be preserved. In most cases processed genomic data are reported, and archived. Hence, some case sensitive data should contain information about processing steps (e.g., calibration, normalization) depending on varying instances. 
+
 
 #### Inclusivity
+Data inclusivity refers to making the data truly open and available for all  independent of nationality, location, race, age, gender, sexual orientation, religion, income, socio-economic circumstances, career stage, discipline, language and culture, ability and disability, political ideology, ethnicity or immigration status or any other grounds. 
+
+Open Data is free from all types of organizational, cultural, political and/or commercial restrictions. A good example of open data transcend national boundary is the [world bank poverty](https://data.worldbank.org/indicator/SI.POV.DDAY?locations=1W&start=1981&end=2015&view=chart) headcount data, which is anonymously developed from primary household survey data of different government statistical agencies and World Bank country departments [[17](https://data.worldbank.org/indicator/SI.POV.DDAY?locations=1W&start=1981&end=2015&view=chart)]. 
+
+The inclusiveness of open data brings many benefits (Lesson 2 - Benefits of Open Data). However, there are situations when it is not ethical or appropriate to share certain data, or there are considerations to implement additional steps and policies to ensure the proper use of open data (Lesson 3 - Responsible Open Data). 
+
 
 ## Conclusion
+In this lesson, you learned about different types of data, the definition and key characteristics of open data. You might already have some great examples about open data that you are interested in learning more. In the next lesson, you will be exposed to various benefits and challenges of open data.
 
 ## Assessment 
+**Self Assessment:** Do you know the difference between different types of data?
+
+A researcher needs data on trauma for an ongoing project.
+
+**Scenario 1:** They visit a trauma center and ask questions to patients in the trauma center. What type of data was collected?
+
+**Senario 2:** In the trauma center, they are referred to a database where they can find responses from patients. What type of data was collected?
