@@ -74,9 +74,74 @@ Data repositories will be discussed in the next lesson. Domain specific reposito
 If there are no guidelines then a simple README file attached with the data is a start (for an example see [here](https://cornell.app.box.com/v/ReadmeTemplate)) - though it’s important to note that ideally one should use metadata schema which is described in much more detail [here](https://www.dcc.ac.uk/guidance/standards) as FAIR data should be machine-actionable [7] [8].
 
 ### 5.4 Help
-#### Research communities (international and national)
-#### Open Science related communities
-#### Tools and resources
-#### Local library or IT services
+Much of the ins and outs of dealing with Open Data, or more particularly Open Data that follows good practice such as the FAIR principles, can be technical and lies beyond the domain of knowledge of researchers. How does one navigate this landscape?
+
+This can be summarized in the following diagram -
+
+![Figure 5.3 Diagram pointing to four possible sources of informaiton a researcher can approach.](https://github.com/learnopenscience/TOPS-OC2-data/blob/8509153045f69f2c52c6a6192c52476c54560071/lessons/Figure5.3.png "Figure 5.3 Sources of information and support on Open Data that a researcher could access.")
+
+Figure 5.3 Sources of information and support on Open Data that a researcher could access.
+
+#### **Research communities (international and national)**
+
+Individual research disciplines may already have put together materials and have advice on how to implement Open Science in their discipline. For example [FAIRsharing](https://fairsharing.org/) is a educational and information resource on data and metadata standards [9].  The [Research Data Alliance](https://rd-alliance.org/) have a variety of different [interest and working groups](https://www.rd-alliance.org/groups) in data sharing in specific disciplines. Scientific Societies and Publishers can also provide advice [10] [11]. 
+
+
+#### **Open Science related communities**
+
+There are a number of communities that are focussed on Open Science activities. [ReproducibiliTea](https://reproducibilitea.org/) is a grass-roots journal club initiative that is based in over 100 institutions and is a forum to discuss reproducibility, closely allied to Open Science [12]. The [FAIRdata forum](https://fairdataforum.org/) allows you to browse materials and raise questions that are related to FAIR [13]. Correspondingly the [PID forum](https://pidforum.org/) allows you to ask questions on PIDs in general [14]. A list of Open Science communities is provided in the next module (Open Tools).
+
+
+#### **Tools and resources**
+
+Finally, there are a range of different tools to help you. For example, [DMPtool](https://dmptool.org/quick_start_guide) and [DMPonline](https://dmponline.dcc.ac.uk/) allow you to build your own DMPs [15] [16]. See the module Open Tools for more details. There are a variety of different catalogs out there one can use to search for materials in this area. [Shanahan, Hoebelheinrich and Whyte](https://www.sciencedirect.com/science/article/pii/S2666389921001720) (2021) have a table of catalogs to search for materials [17].
+
+
+#### **Local library or IT services**
+
+The long term vision is that Higher Education Institutions (HEIs) or Research Performing Organisations (RPOs) [will employ data professionals to advise and support researchers](http://insights.uksg.org/articles/10.1629/uksg.484/) [18]. These individuals have a variety of possible job titles such as Data Librarian, Data Steward, Data Curator and so on. These individuals would advise on aspects on how to make your data adhere to the CARE and FAIR principles, providing appropriate metadata and so on. Some HEIs/RPOs have already made Open Science (or Open Research) policy statements and may not yet have an infrastructure to help but will be interested in supporting you. In some countries there has been progress in this area but it is very early days. Nonetheless, it is worth contacting your University library as they may be able to advise you even on relatively small questions or requests.
+
+
 ## Conclusion
+Making data open is not trivial. It is not simply a matter of placing a data set onto a cloud drive. Nonetheless, if it is done correctly then the open data is available for reuse. Reuse can be a completely different research team or it could be the same research team that need to carry after a member of the team responsible for the data has moved on. This means one has to think of the data as part of life-cycle and that it is important to make plans (a Data Management Plan) prior to creating the data to ensure that it is stored appropriately. Part of making your data FAIR is provide metadata that describes the data that you are depositing. Finally, do not feel that you have to do all this from scratch. There are a variety of different avenues that you can approach, either on an online basis or sometimes on your own campus.   
+
 ## Assessment
+**Exercise** Think about the data sets that were described in lesson 1 as examples of good data. Can you identify what were the above steps with that data? Think now about a data set in your own discipline. What would be the steps that you would need to take with that data to match up with the data life cycle?
+
+## References
+
+[1] Higgins, S. ,”The DCC Curation Lifecycle model”, Intl. J. Digital Curation, **3** (1), 2008, DOI [10.2218/ijdc.v3i1.48](https://doi.org/10.2218/ijdc.v3i1.48)
+
+[2] https://old.dataone.org/data-life-cycle
+
+[3] [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)
+
+[4] [https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/)
+
+[5] [https://dmptool.org/public_templates](https://dmptool.org/public_templates)
+
+[6] [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+
+[7] https://cornell.app.box.com/v/ReadmeTemplate
+
+[8] [https://www.dcc.ac.uk/guidance/standards](https://www.dcc.ac.uk/guidance/standards)
+
+[9] https://fairsharing.org/
+
+[10] [https://www.rd-alliance.org/](https://www.rd-alliance.org/)
+
+[11] [https://www.rd-alliance.org/groups](https://www.rd-alliance.org/groups)
+
+[12] [https://reproducibilitea.org/](https://reproducibilitea.org/)
+
+[13] [https://fairdataforum.org/](https://fairdataforum.org/)
+
+[14] [https://pidforum.org/](https://pidforum.org/)
+
+[15] [https://dmptool.org/quick_start_guide](https://dmptool.org/quick_start_guide)
+
+[16] [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/)
+
+[17] Shanahan, H., Hoebelheinrich, N., & Whyte, A. (2021). Progress toward a comprehensive teaching approach to the FAIR data principles. _Patterns_, _2_(10), 100324. DOI 10.1016/j.patter.2021.100324 
+
+[18] Plomp, E., Dintzner, N., Teperek, M. & Dunning, A., (2019). “Cultural obstacles to research data management and sharing at TU Delft”, _Insights_, **32**(1), DOI 10.1629/uksg.484 
