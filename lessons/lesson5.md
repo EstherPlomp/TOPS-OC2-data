@@ -13,7 +13,7 @@ With a focus on generating papers, a researcher implicitly ended up with the fol
 It’s important to note here that because the focus is on the paper, there’s no thought to how the data changes at different stages of the process, or thought to how the data should be managed after a paper is published. Usually the data were included as part of the paper as a supplementary file. 
 This can be summarized in the following image.
 
-#### The data life cycle
+![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/cf79eea6431dc6c7beadefab545507eef7ea62d5/lessons/Figure5.1.png "Figure 5.1 Linear workflow model")
 ### 5.2 Data Management Plans (DMP)
 ### 5.3 Documenting your Data (Metadata)
 ### 5.4 Help
