@@ -38,3 +38,10 @@
 12. https://www.nature.com/articles/d41586-021-01194-6
 
 ## Lesson 3 References:
+1. https://researchsupport.admin.ox.ac.uk/governance/ethics/resources/consent#:~:text=Informed%20consent%20is%20one%20of,before%20they%20enter%20the%20research. 
+2. https://www.internationalgenome.org/sites/1000genomes.org/files/docs/Informed%20Consent%20Form%20Template.pdf
+3. https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html
+4. https://doi.org/10.1038/s41559-018-0608-1
+5. https://doi.org/10.1126/science.aan1362
+
+## Lesson 4 References:

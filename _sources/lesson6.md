@@ -1,4 +1,9 @@
 # Lesson 6: Sharing Open Data 
+
+**Lesson lead**
+
+**Contributors**
+
 ## Introduction:
 ### 6.1 Policies for Responsible Sharing of Open Data
 ### 6.2 Licenses for Open Data
