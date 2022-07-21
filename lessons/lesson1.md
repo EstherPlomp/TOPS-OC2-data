@@ -1,6 +1,6 @@
 # Lesson 1:  What is Open Data?
 
-**Module lead**
+**Lesson lead**
 
 **Contributors**
 

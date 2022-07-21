@@ -1,5 +1,9 @@
 # Lesson 5: Planning for Open Data
 
+**Lesson lead**
+
+**Contributors**
+
 ## Introduction
 In the previous lessons it has been shown that effective open data needs to be managed. As we have seen this is not trivial and requires work and preparation. Correspondingly, there can be cost implications for your institutions to do this. Rather than facing these issues on an ad hoc basis, one should plan and prepare what you will need to do before you generate the data. With this in mind, we will 
 
