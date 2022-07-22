@@ -11,3 +11,5 @@ Open Science conversations are thus incomplete without addressing how data is ha
 
 There are six individual lessons in this chapter. Lesson 1 describes what Data and Open Data is. Lesson 2 explains why Open Data is an enabler of Open Science and why making data open brings huge benefits. Lesson 3 demonstrates that while the default for data should be open, this should not be done in all circumstances and data should be made open in a responsible fashion. Lesson 4 discusses the CARE and FAIR principles; the former being principles associated with indigenous data governance and the latter a set of principles for sharing data effectively. Lesson 5 describes how data should be managed so that making the data open can be done as effectively as possible. Finally lesson 6 outlines practices for Open Data including repositories, licenses and citing data. 
 
+```{tableofcontents}
+```
