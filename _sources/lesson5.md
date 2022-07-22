@@ -2,7 +2,7 @@
 
 **Lesson lead**
 
-**Contributors**
+**Contributors:** Siobhan Mackenzie Hall
 
 ```{contents}
 :local:

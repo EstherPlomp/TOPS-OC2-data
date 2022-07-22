@@ -1,6 +1,6 @@
 # Lesson 3: Responsible Open Data
 
-**Lesson lead**
+**Lesson lead:** Siobhan Mackenzie Hall
 
 **Contributors**
 
