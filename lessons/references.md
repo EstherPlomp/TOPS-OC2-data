@@ -75,3 +75,16 @@
 16. [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/)
 17. Shanahan, H., Hoebelheinrich, N., & Whyte, A. (2021). Progress toward a comprehensive teaching approach to the FAIR data principles. _Patterns_, _2_(10), 100324. [https://doi.org/10.1016/j.patter.2021.100324 ](https://doi.org/10.1016/j.patter.2021.100324) 
 18. Plomp, E., Dintzner, N., Teperek, M. & Dunning, A., (2019). “Cultural obstacles to research data management and sharing at TU Delft”, _Insights_, **32**(1), [http://doi.org/10.1629/uksg.484](http://doi.org/10.1629/uksg.484)
+
+## Lesson 6 references:
+1.  https://doi.org/10.5281/zenodo.6532282 
+2. https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html 
+3. https://doi.org/10.3389/fdata.2019.00043
+4. https://opendatacommons.org/licenses/
+5. https://creativecommons.org/about/program-areas/open-data/
+6. https://resources.data.gov/open-licenses/
+7. https://creativecommons.org/publicdomain/zero/1.0/ 
+8. https://senselab.med.yale.edu/ModelDB/
+9. https://jie.yale.edu/datastatements
+10. https://think.f1000research.com/wp-content/uploads/2021/02/F1000Research-Open-Data-How-to-Write-a-Data-Availability-Statement.pdf
+11. https://doi.org/10.5281/zenodo.6505587
