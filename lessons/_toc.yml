@@ -5,7 +5,7 @@ format: jb-book
 root: intro
 chapters:
 - file: learningobjectives
-- file: definitons
+- file: definitions
 - file: lesson1
 - file: lesson2
 - file: lesson3
@@ -13,3 +13,4 @@ chapters:
 - file: lesson5
 - file: lesson6
 - file: references
+- file: contributions

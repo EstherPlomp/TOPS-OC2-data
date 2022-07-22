@@ -4,6 +4,8 @@
 
 **Contributors**
 
+:local:
+
 ## Introduction
 
 In the previous lesson on Responsible Open Data, we acknowledged that you may not always be able to share the research data openly. This lesson will introduce you to two sets of principles that provide a framework for responsible open data. The CARE principles may help you to responsibly collect and share data. If you are able to make (part of) the data openly available, it is helpful to do this in a manner that facilitates reuse by yourself and others. The FAIR principles provide guidelines for this, and allow you to share part of the data without necessarily disclosing all the data. After this lesson, you’ll be able to understand the relationship between FAIR, CARE and Open Data.
