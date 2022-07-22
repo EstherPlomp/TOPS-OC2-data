@@ -4,6 +4,9 @@
 
 **Contributors**
 
+:local:
+
+
 ## Introduction
 Data is a precious resource that should be shared whenever possible. As demonstrated in the previous lesson, dramatic improvements can arise from Open Data and the decolonisation of knowledge by ensuring sure data is open and available to all. 
 
