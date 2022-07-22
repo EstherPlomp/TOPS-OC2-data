@@ -1,6 +1,6 @@
 # Lesson 2: Benefits of Open Data 
 
-**Lesson lead**
+**Lesson lead:** Siobhan Mackenzie Hall
 
 **Contributors**
 

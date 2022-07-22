@@ -1,7 +1,7 @@
 # Lesson 6: Sharing Open Data 
 **Lead**: Andrea Medina-Smith
 
-**Contributors**: Siobhan Hall, Douglas Rao 
+**Contributors**: Siobhan Mackenzie Hall, Douglas Rao 
 
 ---
 
