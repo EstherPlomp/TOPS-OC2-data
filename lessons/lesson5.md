@@ -16,13 +16,17 @@ In the previous lessons it has been shown that effective open data needs to be m
 * Introduce the concept of a data management plan, where one documents the steps that will be carried out to ensure that your data can be shared in an appropriate fashion.
 * Introduce the concept of metadata, namely documenting your data which is essential if another researcher is to make use of your data.
 * Finally, who to contact in terms of advice and support. 
+
 ### 5.1 Planning
 #### The data life cycle
 With a focus on generating papers, a researcher implicitly ended up with the following research workflow model in mind of how they worked with their data.
 It’s important to note here that because the focus is on the paper, there’s no thought to how the data changes at different stages of the process, or thought to how the data should be managed after a paper is published. Usually the data were included as part of the paper as a supplementary file. 
+
 This can be summarized in the following image.
 
-![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/cf79eea6431dc6c7beadefab545507eef7ea62d5/lessons/Figure5.1.png "Figure 5.1 Linear workflow model")
+![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/adb7137694dde403ca54c7b8f755e79dd60fe8d8/assets/Figure5.1.png "Figure 5.1 Linear workflow model")
+
+
 
 Figure 5.1: Linear workflow model 
 
@@ -32,7 +36,7 @@ Data no longer has to be associated with one paper.
 Data can be reanalysed.
 More data, from different sources or the same lab, can be added in at any time, including later.
 Instead of the process being a linear progression, with a start and a finish, the process for data becomes more complex and there is cycle.
-These ideas were put together in the [DCC Curation Lifecycle model](http://www.ijdc.net/article/view/69) [1]. The original life cycle is complicated but a summary of the life-cycle is listed below
+These ideas were put together in the [DCC Curation Lifecycle model](http://www.ijdc.net/article/view/69) [[1](https://doi.org/10.2218/ijdc.v3i1.48)]. The original life cycle is complicated but a summary of the life-cycle is listed below
 
 ![The DataOne Data life cycle](https://old.dataone.org/sites/all/images/DLC2015_sm.png "Figure 5.2 A summary of the data life cycle")
 
@@ -40,6 +44,7 @@ Figure 5.2: A summary of the data life cycle (reproduced from https://old.dataon
 
 Here the focus is very much moved away from the idea of research -> publication and instead is on the data itself as a first class research output.
 Let’s look at these individual steps
+
 * **Plan**: a description of the data that will be compiled, how the data will be managed and made accessible throughout its lifetime.
 * **Collect**: this corresponds to the data gathering step (illustrated in Figure 5.1).  It can include both primary (raw) and processed data.
 * **Assure**: the quality of the data is assured through checks and inspections.
@@ -115,42 +120,13 @@ The long term vision is that Higher Education Institutions (HEIs) or Research Pe
 Making data open is not trivial. It is not simply a matter of placing a data set onto a cloud drive. Nonetheless, if it is done correctly then the open data is available for reuse. Reuse can be a completely different research team or it could be the same research team that need to carry after a member of the team responsible for the data has moved on. This means one has to think of the data as part of life-cycle and that it is important to make plans (a Data Management Plan) prior to creating the data to ensure that it is stored appropriately. Part of making your data FAIR is provide metadata that describes the data that you are depositing. Finally, do not feel that you have to do all this from scratch. There are a variety of different avenues that you can approach, either on an online basis or sometimes on your own campus.   
 
 ## Assessment
-**Exercise** Think about the data sets that were described in lesson 1 as examples of good data. Can you identify what were the above steps with that data? Think now about a data set in your own discipline. What would be the steps that you would need to take with that data to match up with the data life cycle?
+Think about the data sets that were described in lesson 1 as examples of good data.
+ 
+* Can you identify what were the above steps with that data? 
 
-## References
+Think now about a data set in your own discipline. 
 
-[1] Higgins, S. ,”The DCC Curation Lifecycle model”, Intl. J. Digital Curation, **3** (1), 2008, DOI [10.2218/ijdc.v3i1.48](https://doi.org/10.2218/ijdc.v3i1.48)
+* What would be the steps that you would need to take with that data to match up with the data life cycle?
 
-[2] https://old.dataone.org/data-life-cycle
 
-[3] [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)
 
-[4] [https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/)
-
-[5] [https://dmptool.org/public_templates](https://dmptool.org/public_templates)
-
-[6] [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
-
-[7] https://cornell.app.box.com/v/ReadmeTemplate
-
-[8] [https://www.dcc.ac.uk/guidance/standards](https://www.dcc.ac.uk/guidance/standards)
-
-[9] https://fairsharing.org/
-
-[10] [https://www.rd-alliance.org/](https://www.rd-alliance.org/)
-
-[11] [https://www.rd-alliance.org/groups](https://www.rd-alliance.org/groups)
-
-[12] [https://reproducibilitea.org/](https://reproducibilitea.org/)
-
-[13] [https://fairdataforum.org/](https://fairdataforum.org/)
-
-[14] [https://pidforum.org/](https://pidforum.org/)
-
-[15] [https://dmptool.org/quick_start_guide](https://dmptool.org/quick_start_guide)
-
-[16] [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/)
-
-[17] Shanahan, H., Hoebelheinrich, N., & Whyte, A. (2021). Progress toward a comprehensive teaching approach to the FAIR data principles. _Patterns_, _2_(10), 100324. DOI 10.1016/j.patter.2021.100324 
-
-[18] Plomp, E., Dintzner, N., Teperek, M. & Dunning, A., (2019). “Cultural obstacles to research data management and sharing at TU Delft”, _Insights_, **32**(1), DOI 10.1629/uksg.484 

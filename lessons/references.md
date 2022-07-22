@@ -57,6 +57,21 @@
 10. https://doi.org/10.5281/zenodo.6532282
 
 ## Lesson 5 References:
-
-
-
+1. Higgins, S. ,”The DCC Curation Lifecycle model”, Intl. J. Digital Curation, **3** (1), 2008, DOI [10.2218/ijdc.v3i1.48](https://doi.org/10.2218/ijdc.v3i1.48)
+2. [https://old.dataone.org/data-life-cycle](https://fairsharing.org/)
+3. [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)
+4. [https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/](https://www.ukri.org/councils/stfc/guidance-for-applicants/what-to-include-in-your-proposal/data-management-plan/)
+5. [https://dmptool.org/public_templates](https://dmptool.org/public_templates)
+6. [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+7. [https://cornell.app.box.com/v/ReadmeTemplate](https://fairsharing.org/)
+8. [https://www.dcc.ac.uk/guidance/standards](https://www.dcc.ac.uk/guidance/standards)
+9. [https://fairsharing.org/](https://fairsharing.org/)
+10. [https://www.rd-alliance.org/](https://www.rd-alliance.org/)
+11. [https://www.rd-alliance.org/groups](https://www.rd-alliance.org/groups)
+12. [https://reproducibilitea.org/](https://reproducibilitea.org/)
+13. [https://fairdataforum.org/](https://fairdataforum.org/)
+14. [https://pidforum.org/](https://pidforum.org/)
+15. [https://dmptool.org/quick_start_guide](https://dmptool.org/quick_start_guide)
+16. [https://dmponline.dcc.ac.uk/](https://dmponline.dcc.ac.uk/)
+17. Shanahan, H., Hoebelheinrich, N., & Whyte, A. (2021). Progress toward a comprehensive teaching approach to the FAIR data principles. _Patterns_, _2_(10), 100324. [https://doi.org/10.1016/j.patter.2021.100324 ](https://doi.org/10.1016/j.patter.2021.100324) 
+18. Plomp, E., Dintzner, N., Teperek, M. & Dunning, A., (2019). “Cultural obstacles to research data management and sharing at TU Delft”, _Insights_, **32**(1), [http://doi.org/10.1629/uksg.484](http://doi.org/10.1629/uksg.484)
