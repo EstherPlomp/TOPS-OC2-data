@@ -4,7 +4,9 @@
 
 **Contributors**
 
+```{contents}
 :local:
+```
 
 ## Introduction
 

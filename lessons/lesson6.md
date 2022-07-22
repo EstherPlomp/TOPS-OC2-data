@@ -5,7 +5,9 @@
 
 ---
 
+```{contents}
 :local:
+```
 
 
 ## Introduction:
