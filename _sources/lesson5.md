@@ -27,6 +27,7 @@ This can be summarized in the following image.
 ![Linear workflow focussed on publications](https://github.com/learnopenscience/TOPS-OC2-data/blob/adb7137694dde403ca54c7b8f755e79dd60fe8d8/assets/Figure5.1.png "Figure 5.1 Linear workflow model")
 
 
+![Linear workflow focussed on publications](assets/Figure5.1.png "Figure 5.1 Linear workflow model") 
 
 Figure 5.1: Linear workflow model 
 
