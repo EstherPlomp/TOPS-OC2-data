@@ -4,7 +4,9 @@
 
 **Contributors**
 
+```{contents}
 :local:
+```
 
 ## Introduction
 As mentioned earlier, data is a major part of scientific research, and why wouldn’t it be? It is evident that data permeates many aspects of our daily life with significant consequences.
