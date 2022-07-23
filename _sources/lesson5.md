@@ -92,7 +92,7 @@ If there are no guidelines then a simple README file attached with the data is a
 
 ### 5.4 Help
 Much of the ins and outs of dealing with Open Data, or more particularly Open Data that follows good practice such as the FAIR principles, can be technical and lies beyond the domain of knowledge of researchers. How does one navigate this landscape?
-*[comment]: Images 5.1. and 5.3 are not rendering in the notebook, but these render in Github*
+
 This can be summarized in the following diagram -
 
 ![Figure 5.3 Diagram pointing to four possible sources of informaiton a researcher can approach.](https://github.com/learnopenscience/TOPS-OC2-data/blob/8509153045f69f2c52c6a6192c52476c54560071/lessons/Figure5.3.png "Figure 5.3 Sources of information and support on Open Data that a researcher could access.")
