@@ -1,8 +1,8 @@
 # Lesson 5: Planning for Open Data
 
-**Lesson lead**
+**Lesson lead**: Hugh Shanahan
 
-**Contributors:** Siobhan Mackenzie Hall
+**Contributors:** Siobhan Mackenzie Hall, Yuhan "Douglas" Rao
 
 ```{contents}
 :local:
