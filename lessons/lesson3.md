@@ -2,7 +2,7 @@
 
 **Lesson lead:** Siobhan Mackenzie Hall
 
-**Contributors**
+**Contributors:** Stephen Klusza, Andrea Medina-Smith, Esther Plomp
 
 ```{contents}
 :local:
