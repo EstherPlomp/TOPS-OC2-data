@@ -1,8 +1,8 @@
 # Lesson 1:  What is Open Data?
 
-**Lesson lead**
+**Lesson lead**: Yuhan "Douglas" Rao
 
-**Contributors**
+**Contributors**: Esther Plomp, Jannatul Ferdush, Karega Pauline
 
 ```{contents}
 :local:
