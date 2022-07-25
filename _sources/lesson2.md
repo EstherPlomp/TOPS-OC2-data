@@ -2,7 +2,7 @@
 
 **Lesson lead:** Siobhan Mackenzie Hall
 
-**Contributors**
+**Contributors:** Pauline Karega, Jannatul Ferdush, Stephen Klusza
 
 ```{contents}
 :local:
