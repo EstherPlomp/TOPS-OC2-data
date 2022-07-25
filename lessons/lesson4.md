@@ -1,8 +1,8 @@
 # Lesson 4: CARE & FAIR Principles 
 
-**Lesson lead**
+**Lesson lead**: Esther Plomp
 
-**Contributors**
+**Contributors**: Stephen Klusza, Andrea Medina-Smith
 
 ```{contents}
 :local:
